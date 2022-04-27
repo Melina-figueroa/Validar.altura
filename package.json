@@ -1,7 +1,7 @@
 {
-  "name": "ejercicio-validar-altura",
+  "name": "validar",
   "version": "1.0.0",
-  "description": "",
+  "description": "Validar altura",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
